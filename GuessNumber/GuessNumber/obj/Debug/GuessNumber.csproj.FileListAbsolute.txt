@@ -1,0 +1,13 @@
+H:\GuessNumber\GuessNumber\bin\GuessNumber.dll.config
+H:\GuessNumber\GuessNumber\bin\GuessNumber.dll
+H:\GuessNumber\GuessNumber\bin\GuessNumber.pdb
+H:\GuessNumber\GuessNumber\bin\AspNet.ScriptManager.jQuery.dll
+H:\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csprojResolveAssemblyReference.cache
+H:\GuessNumber\GuessNumber\obj\Debug\GuessNumber.dll
+H:\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
+E:\GuessNumber\GuessNumber\obj\Debug\GuessNumber.dll
+E:\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
+E:\GuessNumber\GuessNumber\bin\GuessNumber.dll.config
+E:\GuessNumber\GuessNumber\bin\GuessNumber.dll
+E:\GuessNumber\GuessNumber\bin\GuessNumber.pdb
+E:\GuessNumber\GuessNumber\bin\AspNet.ScriptManager.jQuery.dll

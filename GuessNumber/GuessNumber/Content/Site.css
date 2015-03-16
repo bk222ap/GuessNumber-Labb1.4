@@ -1,0 +1,8 @@
+﻿.field-validation-error{
+    color: #f00;
+}
+
+.field-summary-errors{
+    font-weight: bold;
+    color: #f00;
+}
